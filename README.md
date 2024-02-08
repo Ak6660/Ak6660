@@ -1,6 +1,6 @@
 [![MasterHead](https://static01.nyt.com/images/2020/12/23/business/23Techfix-illo/23Techfix-illo-superJumbo.gif)]()
 
-<h1 align="center">Hi 👋, I'm Suboor Khan</h1>
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from India </h3>
 <img align="right" alt="Coding" height="300" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/profile%2FScreenshot_20210821-010752_Facebook.jpg___524Screenshot_20210821-010752_Facebook.jpg?alt=media&token=3c68f7fc-5b13-46d4-803e-9cce8a6afe4e" />
 
@@ -9,21 +9,19 @@
         alt="suboorkhan" />
 </p>
 
-- 🔭 I’m currently working in [Hindustan Times](https://www.hindustantimes.com/)
+- 🔭 I’m currently working in [Iris Softwares](www.irissoftware.com)
 
-- 🌱 I’m currently learning **Kubernettes, Golang, Rust**
+- 🌱 I’m currently learning **Typescript, Next Js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [suboorkhan](http://suboorkhan.com/)
+- 💬 Ask me about **Javascript, React, Node**
 
-- 💬 Ask me about **Javascript, Typescript, Angular, React, Node**
-
-- 📫 How to reach me **suboork100@gmail.com**
+- 📫 How to reach me **Ayushtyagi4971@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
-[linkedIn](https://www.linkedin.com/in/suboor-khan-314136158/)
+[linkedIn](https://www.linkedin.com/in/ayush-kumar-49b526126/)
 
 <br/>
 
