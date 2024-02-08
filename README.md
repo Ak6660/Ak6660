@@ -4,12 +4,7 @@
 <h3 align="center">A multidisciplinary Full-Stack developer from India </h3>
 <img align="right" alt="Coding" height="300" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/profile%2FScreenshot_20210821-010752_Facebook.jpg___524Screenshot_20210821-010752_Facebook.jpg?alt=media&token=3c68f7fc-5b13-46d4-803e-9cce8a6afe4e" />
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat"
-        alt="suboorkhan" />
-</p>
-
-- 🔭 I’m currently working in [Iris Softwares](www.irissoftware.com)
+- 🔭 I’m currently working in [Iris Softwares](https://www.irissoftware.com/)
 
 - 🌱 I’m currently learning **Typescript, Next Js**
 
