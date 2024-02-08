@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from India </h3>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat"
-        alt="suboorkhan" />
-</p>
 
 - 🔭 I’m currently working in [Iris Softwares](https://www.irissoftware.com/)
 
