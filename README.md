@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from India </h3>
 
-- 🔭 I’m currently working in [Iris Softwares](https://www.irissoftware.com/)
+- 🔭 I’m currently working in [Krapton](https://www.krapton.com)
 
 - 🌱 I’m currently learning **Typescript, Next Js**
 
